@@ -16,6 +16,9 @@
     "allowJs": false,
     "strict": true,
     "resolveJsonModule": true,
+    "rootDir": "${configDir}/src",
+    "outDir": "${configDir}/dist",
+    "baseUrl": "${configDir}",
     "paths": {
       "@/*": ["./src/*"]
     }
