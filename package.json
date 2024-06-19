@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "name": "@foxhable/configs",
+  "version": "1.0.0",
+  "description": "Configs for private projects",
+  "keywords": [],
+  "author": "foxhable",
+  "license": "ISC"
+}

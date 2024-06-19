@@ -1,0 +1,14 @@
+# misc
+.idea
+.vscode
+
+# package manager
+node_modules
+
+# env
+.env.local
+.env.*.local
+
+# build
+dist
+build
