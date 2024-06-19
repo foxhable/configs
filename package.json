@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "@foxhable/configs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Configs for private projects",
   "keywords": [],
   "author": "foxhable",
